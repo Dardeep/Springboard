@@ -1,0 +1,201 @@
+City,State,State_FIPS,Place_FIPS
+New York, New York,36,51000
+Los Angeles, California,6,44000
+Chicago, Illinois,17,14000
+Houston, Texas,48,35000
+Philadelphia, Pennsylvania,42,60000
+Phoenix, Arizona,4,55000
+San Antonio, Texas,48,65000
+San Diego, California,6,66000
+Dallas, Texas,48,19000
+San Jose, California,6,68000
+Austin, Texas,48,5000
+Jacksonville, Florida,12,35000
+Fort Worth, Texas,48,27000
+Columbus, Ohio,39,18000
+Indianapolis, Indiana,18,36003
+San Francisco, California,6,67000
+Charlotte, North Carolina,37,12000
+Seattle, Washington,53,63000
+Denver, Colorado,8,20000
+Washington, District of Columbia,11,50000
+Nashville, Tennessee,47,52006
+El Paso, Texas,48,24000
+Oklahoma City, Oklahoma,40,55000
+Boston, Massachusetts,25,7000
+Portland, Oregon,41,59000
+Detroit, Michigan,26,22000
+Las Vegas, Nevada,32,40000
+Memphis, Tennessee,47,48000
+Louisville, Kentucky,21,48006
+Baltimore, Maryland,24,4000
+Milwaukee, Wisconsin,55,53000
+Albuquerque, New Mexico,35,2000
+Fresno, California,6,27000
+Tucson, Arizona,4,77000
+Sacramento, California,6,64000
+Kansas City, Missouri,29,38000
+Mesa, Arizona,4,46000
+Atlanta, Georgia,13,4000
+Omaha, Nebraska,31,37000
+Colorado Springs, Colorado,8,16000
+Long Beach, California,6,43000
+Raleigh, North Carolina,37,55000
+Virginia Beach, Virginia,51,82000
+Miami, Florida,12,45000
+Oakland, California,6,53000
+Minneapolis, Minnesota,27,43000
+Tulsa, Oklahoma,40,75000
+Bakersfield, California,6,3526
+Wichita, Kansas,20,79000
+Arlington, Texas,48,4000
+New Orleans, Louisiana,22,55000
+Aurora, Colorado,8,4000
+Tampa, Florida,12,71000
+Cleveland, Ohio,39,16000
+Honolulu, Hawaii,15,71550
+Anaheim, California,6,2000
+Lexington, Kentucky,21,46027
+Corpus Christi, Texas,48,17000
+Stockton, California,6,75000
+Riverside, California,6,62000
+Santa Ana, California,6,69000
+Henderson, Nevada,32,31900
+St. Paul, Minnesota,27,58000
+Cincinnati, Ohio,39,15000
+Newark, New Jersey,34,51000
+Pittsburgh, Pennsylvania,42,61000
+Orlando, Florida,12,53000
+St. Louis, Missouri,29,65000
+Irvine, California,6,36770
+Greensboro, North Carolina,37,28000
+Anchorage, Alaska,2,3000
+Lincoln, Nebraska,31,28000
+Jersey City, New Jersey,34,36000
+Plano, Texas,48,58016
+Durham, North Carolina,37,19000
+Buffalo, New York,36,11000
+Chula Vista, California,6,13392
+Chandler, Arizona,4,12000
+Toledo, Ohio,39,77000
+Madison, Wisconsin,55,48000
+Fort Wayne, Indiana,18,25000
+Gilbert, Arizona,4,27400
+Reno, Nevada,32,60600
+North Las Vegas, Nevada,32,51800
+St. Petersburg, Florida,12,63000
+Lubbock, Texas,48,45000
+Laredo, Texas,48,41464
+Irving, Texas,48,37000
+Winston-Salem, North Carolina,37,75000
+Chesapeake, Virginia,51,16000
+Glendale, Arizona,4,27820
+Garland, Texas,48,29000
+Scottsdale, Arizona,4,65000
+Norfolk, Virginia,51,57000
+Arlington, Virginia,51,3000
+Boise, Idaho,16,8830
+Fremont, California,6,26000
+Santa Clarita, California,6,69088
+Spokane, Washington,53,67000
+Richmond, Virginia,51,67000
+Baton Rouge, Louisiana,22,5000
+Hialeah, Florida,12,30000
+San Bernardino, California,6,65000
+Enterprise, Nevada,32,23770
+Modesto, California,6,48354
+Spring Valley, Nevada,32,68585
+Tacoma, Washington,53,70000
+Des Moines, Iowa,19,21000
+Rochester, New York,36,63000
+Huntsville, Alabama,1,37000
+Yonkers, New York,36,84000
+Fayetteville, North Carolina,37,22920
+Moreno Valley, California,6,49270
+Fontana, California,6,24680
+Columbus, Georgia,13,19000
+Worcester, Massachusetts,25,82000
+Oxnard, California,6,54652
+Birmingham, Alabama,1,7000
+Port St. Lucie, Florida,12,58715
+Little Rock, Arkansas,5,41000
+Augusta, Georgia,13,4204
+Montgomery, Alabama,1,51000
+Amarillo, Texas,48,3000
+Salt Lake City, Utah,49,67000
+Huntington Beach, California,6,36000
+Grand Rapids, Michigan,26,34000
+Glendale, California,6,30000
+Sunrise Manor, Nevada,32,71400
+Grand Prairie, Texas,48,30464
+Overland Park, Kansas,20,53775
+Tallahassee, Florida,12,70600
+Frisco, Texas,48,27684
+Cape Coral, Florida,12,10275
+Akron, Ohio,39,1000
+Paradise, Nevada,32,54600
+McKinney, Texas,48,45744
+Shreveport, Louisiana,22,70000
+Knoxville, Tennessee,47,40000
+Sioux Falls, South Dakota,46,59020
+Providence, Rhode Island,44,59000
+Vancouver, Washington,53,74060
+Peoria, Arizona,4,54050
+Mobile, Alabama,1,50000
+Brownsville, Texas,48,10768
+Newport News, Virginia,51,56000
+Aurora, Illinois,17,3012
+Fort Lauderdale, Florida,12,24000
+Chattanooga, Tennessee,47,14000
+Santa Rosa, California,6,70098
+Tempe, Arizona,4,73000
+Elk Grove, California,6,22020
+Ontario, California,6,53896
+Oceanside, California,6,53322
+Salem, Oregon,41,64900
+Rancho Cucamonga, California,6,59451
+Eugene, Oregon,41,23850
+Garden Grove, California,6,29000
+Lancaster, California,6,40130
+Cary, North Carolina,37,10740
+Pembroke Pines, Florida,12,55775
+Springfield, Missouri,29,70000
+Palmdale, California,6,55156
+Fort Collins, Colorado,8,27425
+Clarksville, Tennessee,47,15160
+Salinas, California,6,64224
+Hayward, California,6,33000
+Alexandria, Virginia,51,1000
+Paterson, New Jersey,34,57000
+Corona, California,6,16350
+Macon-Bibb, Georgia,13,49008
+Springfield, Massachusetts,25,67000
+Kansas City, Kansas,20,36000
+Lakewood, Colorado,8,43000
+Sunnyvale, California,6,77000
+Hollywood, Florida,12,32000
+Pasadena, Texas,48,56000
+Pomona, California,6,58072
+Escondido, California,6,22804
+Joliet, Illinois,17,38570
+Killeen, Texas,48,39148
+Mesquite, Texas,48,47892
+Bellevue, Washington,53,5210
+Naperville, Illinois,17,51622
+Murfreesboro, Tennessee,47,51560
+Rockford, Illinois,17,65000
+Bridgeport, Connecticut,9,8000
+Savannah, Georgia,13,69000
+Charleston, South Carolina,45,13330
+Syracuse, New York,36,73000
+Roseville, California,6,62938
+McAllen, Texas,48,45384
+Surprise, Arizona,4,71510
+Thornton, Colorado,8,77290
+Olathe, Kansas,20,52575
+Visalia, California,6,82954
+Denton, Texas,48,19972
+Gainesville, Florida,12,25175
+Columbia, South Carolina,45,16000
+Waco, Texas,48,76000
+Palm Bay, Florida,12,54000
